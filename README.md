@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><img src="Assets/gabriellogo.png" width="600"/></p>
 
 <!--
 **GabrielVSP/GabrielVSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
