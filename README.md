@@ -1,8 +1,8 @@
 <p align="center"><img src="Assets/gabriellogo.png" width="600"/></p>
 <hr />
 
-<p align="center"><a href=""><img src="https://img.shields.io/badge/linkedin-EF6F20?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-<a href=""><img src="https://img.shields.io/badge/portfolio-EF6F20?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
+<p align="center"><a href="https://www.linkedin.com/in/gabriel-verg%C3%ADlio-77768a28b/"><img src="https://img.shields.io/badge/linkedin-EF6F20?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="https://gabrielvsp.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-EF6F20?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 <p align="center">👋 Hello! I'm Gabriel.</p></p>
 
 ## **About me:**
