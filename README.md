@@ -52,3 +52,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVSP&show_icons=true&theme=gruvbox)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVSP&hide=c,css,scss&theme=tokyonight)
+
+
